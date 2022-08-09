@@ -1,0 +1,104 @@
+{
+    "chars": {
+        "--default--": {
+            "name": "-",
+            "position": 0,
+            "color": "BLACK",
+            "collision": false
+        },
+        "O": {
+            "name": "O",
+            "position": 0,
+            "color": "BLACK",
+            "collision": false
+        },
+        "o": {
+            "name": "o",
+            "position": 2,
+            "color": "YELLOW",
+            "collision": true
+        }
+    },
+    "layout": [
+        [
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ],
+        [
+            "--default--",
+            "O",
+            "O",
+            "O",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ],
+        [
+            "--default--",
+            "O",
+            "o",
+            "O",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ],
+        [
+            "--default--",
+            "O",
+            "O",
+            "O",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ],
+        [
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ],
+        [
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ],
+        [
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ],
+        [
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--",
+            "--default--"
+        ]
+    ]
+}

@@ -136,8 +136,6 @@ class LevelEditor:
 		char_color_str = char_color.upper() if char_color != "" else self.existing_chars[char_name].COLOR_NAME
 		char_color = getattr(Back, char_color_str.upper())
 
-		# TODO : Char action and walk action !
-
 		# Saves the character in the database
 		self.existing_chars[char_name].name = char_value
 		self.existing_chars[char_name].position = char_position
