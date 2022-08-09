@@ -9,7 +9,6 @@ if __name__ == "__main__":
 	app = UnicodeEngine_RPG(
 		tilemap=tilemap,
 		player=Player([0, 0]),
-		playable_area=(8, 8),
-		controls="zqsdf"
+		playable_area=(8, 8)
 	)
 	app.run()

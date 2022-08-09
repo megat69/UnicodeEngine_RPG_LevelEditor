@@ -17,7 +17,6 @@ class LevelEditor:
 		self.app = UnicodeEngine_RPG(
 			tilemap=self.tilemap,
 			player=Player([0, 0], "▓▓▓▓"),
-			controls="zqsdf",
 			noclip=True
 		)
 		self.app.inventory = {
