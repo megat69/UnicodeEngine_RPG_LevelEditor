@@ -30,6 +30,7 @@ class LevelEditor:
 		}
 		self.run()
 
+
 	def update(self, dt: float):
 		"""
 		Runs every frame.
